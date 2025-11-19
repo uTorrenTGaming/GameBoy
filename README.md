@@ -56,7 +56,7 @@ Siga os passos abaixo para clonar e rodar o simulador no seu ambiente local:
 
 Clone o repositório:
 
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/uTorrenTGaming/GameBoy.git)
 
 
 Entre na pasta do projeto:
